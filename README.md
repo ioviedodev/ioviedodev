@@ -7,9 +7,9 @@ I think that sharing knowledge is the best way to get a better world. So let's s
 
 <br><br>1.  🧑 **About me**<br>
 
-&emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: Ecuador ECU<br>
+&emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&emsp;&nbsp;: Ecuador ECU<br>
 &emsp;&emsp;&emsp;**Personal quote**&emsp;&emsp;&emsp;: “Using the engineering as a powerful tool to improve our lives”.<br>
-&emsp;&emsp;&emsp;**Sport**&emsp;&emsp;&emsp;: Swimming and Lifting.<br>
+&emsp;&emsp;&emsp;**Hobbies**&emsp;&emsp;&emsp;&emsp;: Swimming and Lifting.<br>
 
 <br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
