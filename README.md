@@ -11,7 +11,7 @@ I think that sharing knowledge is the best way to get a better world. So let's s
 &emsp;&emsp;&emsp;**Personal quote**&emsp;&emsp;&emsp;: “Using the engineering as a powerful tool to improve our lives”. Author: Iván Oviedo<br>
 &emsp;&emsp;&emsp;**Hobbies**&emsp;&emsp;&emsp;&emsp;&emsp;: Swimming and Lifting.<br>
 
-<br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
+<br><br>2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
       i. Mobile application development: - Android - Java , Flutter-Dart.              
      ii. Web Development: - HTML CSS, Markdown, JavaScript, JQuery, C#, Asp.net.
@@ -26,10 +26,10 @@ I think that sharing knowledge is the best way to get a better world. So let's s
 | English | Professional | [![EF SET Certificate](https://www.efset.org/cert/6ea6771479ceeade5f025fb16ff71264.svg)](https://www.efset.org/cert/NtUDTT) | 
 ||||
 
-<br><br>4.  🗣️ **PROFILE**<br>
+<br><br>4.  📙 **PROFILE**<br>
 |                                                   Profile                                                       |
 |:---------------------------------------------------------------------------------------------------------------:|
-| <img src="Presentation.gif" width="350"></a> |
+| <img src="Presentation.gif" width="720"></a> |
 
 <br><br>5. #️⃣ **REACH ME**<br>
 &emsp;&emsp;&emsp;
