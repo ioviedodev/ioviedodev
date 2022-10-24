@@ -1,9 +1,7 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/ivoviedo?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)
-[![GitHub stars](https://img.shields.io/github/stars/ioviedodev/trip_app.svg?style=social&label=Star)] (https://github.com/ioviedodev/trip_app)
-[![GitHub ioviedodev](https://img.shields.io/github/followers/ioviedodev?label=follow&style=social)] (https://github.com/ioviedodev)
+| [![Ivan Oviedo](https://img.shields.io/badge/IO-IVAN%20OVIEDO-blue)](#) | [![Git Followers](https://img.shields.io/github/followers/ioviedodev)](#) | [![Git Stars](https://img.shields.io/github/stars/ioviedodev?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | 
 
 ### Hi friend, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-Welcome to this profile, it is an honour for me that you come here. I am Software and Firmware Engineer. Passionate for developing software and firmware applications and comunication protocols. "Training and reading let you get the next level". Swimmer and Traveler.<br>
+Welcome to this profile, it is an honor for me that you come here. I am a software and firmware engineer. I feel passion for developing applications that resolve daily issues of the people. On the other hand, I consider that communication protocols are one of the most interesting things in IOT because they let the machine communicate by themselves without human interaction.<br>
 
 I think that sharing knowledge is the best way to get a better world. So let's start.
 
@@ -11,6 +9,7 @@ I think that sharing knowledge is the best way to get a better world. So let's s
 
 &emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: Ecuador ECU<br>
 &emsp;&emsp;&emsp;**Personal quote**&emsp;&emsp;&emsp;: “Using the engineering as a powerful tool to improve our lives”.<br>
+&emsp;&emsp;&emsp;**Sport**&emsp;&emsp;&emsp;: Swimming and Lifting.<br>
 
 <br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
