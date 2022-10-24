@@ -29,7 +29,7 @@ I think that sharing knowledge is the best way to get a better world. So let's s
 <br><br>4.  🗣️ **PROFILE**<br>
 |                                                   Profile                                                       |
 |:---------------------------------------------------------------------------------------------------------------:|
-| <img src="Profile.gif" width="350"></a> |
+| <img src="Presentations.gif" width="350"></a> |
 
 <br><br>5. #️⃣ **REACH ME**<br>
 &emsp;&emsp;&emsp;
