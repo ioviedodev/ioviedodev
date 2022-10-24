@@ -26,8 +26,12 @@ I think that sharing knowledge is the best way to get a better world. So let's s
 | English | Professional | [![EF SET Certificate](https://www.efset.org/cert/6ea6771479ceeade5f025fb16ff71264.svg)](https://www.efset.org/cert/NtUDTT) | 
 ||||
 
+<br><br>4.  🗣️ **PROFILE**<br>
+|                                                   Profile                                                       |
+|:---------------------------------------------------------------------------------------------------------------:|
+| <img src="Profile.gif" width="350"></a> |
 
-<br><br>4. #️⃣ **REACH ME**<br>
+<br><br>5. #️⃣ **REACH ME**<br>
 &emsp;&emsp;&emsp;
 [![Gmail Badge](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Microsoft&logoColor=white)](mailto:ivan@oviedoengineering.com) &emsp;[![LinkedIn - Ivan Oviedo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iván-oviedo-a72a19109)&emsp;
 [![Twitter - @ivoviedo](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ivoviedo)&emsp;[![Instagram - @ivanoviedo.a](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/ivanoviedo.a)&emsp;[![Facebook - Ivan Oviedo](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ivoviedo)&emsp;
